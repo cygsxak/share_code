@@ -1,0 +1,1 @@
+C:\webserver\mjie.net\libs\Mjie/Captcha/ttfs/detourDork.ttf
